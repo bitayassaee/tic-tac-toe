@@ -26,3 +26,11 @@ function checkWin(currentPlayer) {
     }
     return false
 }
+function checkTie(){
+    for(let i = 0; i < squares.length; i++) {
+        if(squares[i].textContent === '') {
+            return false;
+        }
+    }
+    return true
+}
