@@ -1,4 +1,4 @@
-🕹 Tic Tac Toe Game
+Tic Tac Toe Game
 Description
 This is a simple Tic Tac Toe game built using HTML, CSS, and vanilla JavaScript.
 It allows two players to take turns and play the classic 3x3 grid game directly in the browser.
